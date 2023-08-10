@@ -132,7 +132,7 @@ function checarPar() {
                 
                 setTimeout( () => {
                     virarCartas(pImg, sImg);            
-                }, 600
+                }, 1000
 
                 )
                 cartasEscolhidas = [];
